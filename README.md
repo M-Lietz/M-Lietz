@@ -21,3 +21,10 @@ Self-Hosted AI · HomeLab · Cyberpunk Dashboards
 - **Portfolio:** [merlinlietz.com](https://merlinlietz.com)
 - **AI Project:** [neo.lietztech.com](https://neo.lietztech.com)
 - **OpenClaw:** [openclaw/openclaw](https://github.com/openclaw/openclaw) — the platform powering my AI agent
+
+---
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Lietz&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Lietz&layout=compact&theme=tokyonight&hide_border=true&count_private=false" />
+</p>
