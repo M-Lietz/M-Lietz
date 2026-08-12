@@ -1,30 +1,37 @@
+<div align="center">
+
 # Merlin Lietz
 
-Self-Hosted AI · HomeLab · Cyberpunk Dashboards
+**Homelab · Self-hosted Systems · Webentwicklung · Automatisierung**
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-merlinlietz.com-0969da?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://merlinlietz.com)
 
-### 🔧 What I'm Building
+</div>
 
-| Project | What | Tech |
-|---------|------|------|
-| [neo-workspace](https://github.com/M-Lietz/neo-workspace) | OpenClaw AI Agent — HomeLab automation on Proxmox | Bash, Docker, Python |
-| [neo-website](https://github.com/M-Lietz/neo-website) | Self-hosted AI portfolio & dashboard | Astro, WordPress |
-| [s1panel-neo-avatar](https://github.com/M-Lietz/s1panel-neo-avatar) | Cyberpunk TFT LCD dashboards for ACEMagic S1 | JavaScript, REST API |
+## Über mich
 
-### 🛠️ Stack
+Ich entwickle und betreibe praktische Lösungen rund um selbst gehostete Infrastruktur, moderne Websites und Automatisierung. Dabei sind mir verständliche Systeme, zuverlässiger Betrieb und saubere Dokumentation wichtiger als unnötige Komplexität.
 
-`Linux` · `Docker` · `Proxmox` · `n8n` · `OpenClaw` · `Astro` · `JavaScript` · `Python` · `Bash` · `Cloudflare` · `WordPress`
+Die meisten Infrastruktur- und Kundenprojekte sind privat. Ausgewählte Arbeiten und weitere Informationen findest du auf meinem Portfolio.
 
-### 📫 Links
+## Schwerpunkte
+
+- Homelab-Infrastruktur mit Linux, Docker und Proxmox
+- Moderne, schnelle Websites und selbst gehostete Webdienste
+- Automatisierung von wiederkehrenden Abläufen
+- Betrieb, Sicherheit, Backups und nachvollziehbare Dokumentation
+
+## Werkzeugkasten
+
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
+![Proxmox](https://img.shields.io/badge/Proxmox-111827?style=flat-square&logo=proxmox)
+![Astro](https://img.shields.io/badge/Astro-111827?style=flat-square&logo=astro)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare)
+
+## Kontakt
 
 - **Portfolio:** [merlinlietz.com](https://merlinlietz.com)
-- **AI Project:** [neo.lietztech.com](https://neo.lietztech.com)
-- **OpenClaw:** [openclaw/openclaw](https://github.com/openclaw/openclaw) — the platform powering my AI agent
-
----
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Lietz&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Lietz&layout=compact&theme=tokyonight&hide_border=true&count_private=false" />
-</p>
+- **E-Mail:** [merlinlietz@gmail.com](mailto:merlinlietz@gmail.com)
